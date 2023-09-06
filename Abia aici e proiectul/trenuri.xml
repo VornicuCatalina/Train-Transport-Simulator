@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<program>
+	<tren> 1 </tren>
+		<plecare> Bucuresti-Nord </plecare> 
+		<sosire> Constanta </sosire>
+		<op> 06:15 </op>
+		<os> 10:05 </os>
+		<intarziere> - </intarziere>
+		<estimare> 10:05 </estimare>
+		<sp> plecat </sp>
+		<ss> pe drum </ss>
+	<tren> 2 </tren>
+		<plecare> Bucuresti-Nord </plecare> 
+		<sosire> Iasi </sosire>
+		<op> 05:25 </op>
+		<os> 07:40 </os>
+		<intarziere> - </intarziere>
+		<estimare> 07:40 </estimare>
+		<sp> plecat </sp>
+		<ss> pe drum </ss>
+	<tren> 3 </tren>
+		<plecare> Iasi </plecare> 
+		<sosire> Bucuresti-Nord </sosire>
+		<op> 05:14 </op>
+		<os> 11:18 </os>
+		<intarziere> - </intarziere>
+		<estimare> 11:18 </estimare>
+		<sp> plecat </sp>
+		<ss> pe drum </ss>
+	<tren> 4 </tren>
+		<plecare> Iasi </plecare> 
+		<sosire> Suceava </sosire>
+		<op> 04:43 </op>
+		<os> 07:19 </os>
+		<intarziere> - </intarziere>
+		<estimare> 07:19 </estimare>
+		<sp> plecat </sp>
+		<ss> pe drum </ss>
+	<tren> 5 </tren>
+		<plecare> Suceava </plecare> 
+		<sosire> Iasi </sosire>
+		<op> 05:32 </op>
+		<os> 07:20 </os>
+		<intarziere> - </intarziere>
+		<estimare> 07:20 </estimare>
+		<sp> plecat </sp>
+		<ss> pe drum </ss>
+	<tren> 6 </tren>
+		<plecare> Suceava </plecare> 
+		<sosire> Iasi </sosire>
+		<op> 12:30 </op>
+		<os> 13:20 </os>
+		<intarziere> - </intarziere>
+		<estimare> 13:20 </estimare>
+		<sp> in statie </sp>
+		<ss> nici nu e plecat </ss>
+</program>
